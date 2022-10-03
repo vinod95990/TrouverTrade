@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TrouverTrade/static/css/main.74ad1541.css",
+    "main.js": "/TrouverTrade/static/js/main.f4af9dbc.js",
+    "static/media/v2.mp4": "/TrouverTrade/static/media/v2.66ed248474e6ff56d2f6.mp4",
+    "static/media/bg-1.jpg": "/TrouverTrade/static/media/bg-1.840c4c4af689c4c302bb.jpg",
+    "static/media/logo.png": "/TrouverTrade/static/media/logo.50cbec85c3af04fcbb00.png",
+    "index.html": "/TrouverTrade/index.html",
+    "main.74ad1541.css.map": "/TrouverTrade/static/css/main.74ad1541.css.map",
+    "main.f4af9dbc.js.map": "/TrouverTrade/static/js/main.f4af9dbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74ad1541.css",
+    "static/js/main.f4af9dbc.js"
+  ]
+}
